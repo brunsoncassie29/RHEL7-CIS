@@ -3,4 +3,4 @@
   become: yes
 
   roles:
-    - RHEL7-CIS
+    -  _18__rhel7_cis
