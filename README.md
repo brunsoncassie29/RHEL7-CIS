@@ -1,1 +1,1 @@
-# Centos7
+# RHEL7
